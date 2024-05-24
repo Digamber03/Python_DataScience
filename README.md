@@ -31,7 +31,7 @@ This notebook does not require any external datasets. All examples and demonstra
 ## Contributing
 
 Contributions to improve or expand upon this notebook are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
-
+<!--
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -44,3 +44,4 @@ For questions or feedback, you can reach out to me via email at [digamberchandra
 
 Special thanks to the NumPy development team and the open-source community for their contributions to the NumPy library.
 
+-->
