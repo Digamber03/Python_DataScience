@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact Information
 
-For questions or feedback, you can reach out to me via email at [your_email@example.com](mailto:digamberchandra03@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/digamber-chandra).
+For questions or feedback, you can reach out to me via email at [digamberchandra03@gmail.com](mailto:digamberchandra03@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/digamber-chandra).
 
 ## Acknowledgments
 
