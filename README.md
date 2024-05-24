@@ -13,11 +13,11 @@ This notebook covers essential NumPy built-in functions, including array creatio
 1. **Array Creation**: Introduction to various methods for creating NumPy arrays, including `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, `np.linspace()`, and more.
 
 2. **Array Manipulation**: Techniques for reshaping, stacking, splitting, and joining arrays using functions such as `np.reshape()`, `np.hstack()`, `np.vstack()`, `np.concatenate()`, etc.
-
+<!--
 3. **Mathematical Functions**: Overview of mathematical functions provided by NumPy for element-wise operations, including arithmetic operations, trigonometric functions, exponential and logarithmic functions, etc.
 
 4. **Statistical Functions**: Introduction to statistical functions available in NumPy for computing mean, median, standard deviation, variance, and more.
-
+-->
 5. **Linear Algebra Operations**: Overview of linear algebra functions for matrix multiplication, matrix inversion, eigenvalue decomposition, and solving linear equations using NumPy.
 
 ## Usage
