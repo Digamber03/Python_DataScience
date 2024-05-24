@@ -18,7 +18,7 @@ This notebook covers essential NumPy built-in functions, including array creatio
 
 4. **Statistical Functions**: Introduction to statistical functions available in NumPy for computing mean, median, standard deviation, variance, and more.
 -->
-5. **Linear Algebra Operations**: Overview of linear algebra functions for matrix multiplication, matrix inversion, eigenvalue decomposition, and solving linear equations using NumPy.
+3. **Linear Algebra Operations**: Overview of linear algebra functions for matrix multiplication, matrix inversion, eigenvalue decomposition, and solving linear equations using NumPy.
 
 ## Usage
 
